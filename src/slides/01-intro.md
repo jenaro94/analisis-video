@@ -1,25 +1,78 @@
-# Gatsby Deck
+# Grupo 2 - Los Viehas
 
-Create presentations using Gatsby & React.
-
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+### Ataque semifinales Palermo Bajo - Athletic
 
 ---
 
-# 🤫
+# Lines
+
+#### Mal jugados los lines. Mala ejecucion en la mayoria y en los que se ejecuto bien, se pierde en la misma fase.
 
 ---
 
-## Slides are written in Markdown!
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=203&end=224;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
 
-Here's the source of the first slide:
+---
 
-    # Gatsby Deck
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=258&end=324;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
 
-    Create presentations using Gatsby & React.
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=821&end=826;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=1239&end=1266;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=1325&end=1337;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+# Plan de juego
+#### Dificultades para salir del fondo
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=258&end=324;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=570&end=586;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+# Juego suelto
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=374&end=436;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=1010&end=1022;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=1896&end=1924;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=2731&end=2776;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=3052&end=3093;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+<iframe src="https://www.youtube.com/embed/8epzIA6ypaA?autoplay=1&start=5083&end=5136;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" width="800" height="400"></iframe>
+
+---
+
+# Conclusiones
+
+---
+
+### Vieha mandame algo

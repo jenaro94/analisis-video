@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `Los Viehas`,
+    title: `Semifinales Palermo Bajo - Athletic`,
+    date: `Miercoles 10 Junio`,
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -29,10 +29,10 @@ module.exports = {
               maxWidth: 1920,
             },
           },
+          `gatsby-remark-embed-youtube`,
+          `gatsby-remark-responsive-iframe`
         ],
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
   ],
 };
