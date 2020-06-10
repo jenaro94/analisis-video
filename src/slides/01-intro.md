@@ -75,4 +75,8 @@
 
 ---
 
-### Vieha mandame algo
+  1. Athletic trato de mantener viva la pelota pero con mucho desorden. En parte porque hubo mucha presion del bajo.
+
+  1. Cuando aprovecharon el ciego ganaron metros.
+
+  1. Lines muy malos, en varios penales dejaron la pelota adentro (Malas ejecuciones).
